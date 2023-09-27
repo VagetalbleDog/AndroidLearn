@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="first_text_view_text">你好，世界 你好，世界 你好，世界 你好，世界 你好，世界 你好，世界 你好，世界</string>
+    <string name="button_text">我是按钮</string>
 </resources>
